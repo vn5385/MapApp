@@ -27,6 +27,8 @@ An iOS application built with SwiftUI and MapKit that allows users to explore in
 
 ## 📂 Folder Structure
 
+- **SwiftUI** – Modern declarative UI framework by Apple
+- **MapKit** – Apple's framework for embedding maps
 
 ## 🧪 How to Run
 
