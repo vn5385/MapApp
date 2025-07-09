@@ -29,7 +29,7 @@ An iOS application built with SwiftUI and MapKit that allows users to explore in
 
 - **Models**
   - Location
-- **View Models** – Apple's framework for embedding maps
+- **View Models**
   - LocationsViewModel
 - **Views**
   - LocationDetailView
