@@ -28,8 +28,15 @@ An iOS application built with SwiftUI and MapKit that allows users to explore in
 ## 📂 Folder Structure
 
 - **Models**
-- - Location
-- **MapKit** – Apple's framework for embedding maps
+  - Location
+- **View Models** – Apple's framework for embedding maps
+  - LocationsViewModel
+- **Views**
+  - LocationDetailView
+  - LocationMapAnnotationView
+  - LocationPreviewView
+  - LocationsListView
+  - LocationsView
 
 ## 🧪 How to Run
 
