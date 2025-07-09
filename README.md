@@ -22,3 +22,12 @@ An iOS application built with SwiftUI and MapKit that allows users to explore in
 
 ## 📂 Folder Structure
 
+## 🧪 How to Run
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/MapApp.git
+2. Open MapApp.xcodeproj in Xcode
+
+3. Run on Simulator or physical device
+
